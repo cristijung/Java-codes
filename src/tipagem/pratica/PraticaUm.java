@@ -2,7 +2,7 @@ package tipagem.pratica;
 //Desenvolver um algoritmo em Java que exiba as seguintes informações,
 // do usuário (por meio do Scanner).
 //EXEMPLO: Olá, seu nome é João, você tem 16 anos, é da cidade de
-// Porto Alegre, situada no estado Rio Grande do Sul..
+// Porto Alegre, situada no estado Rio Grande do Sul.
 
 import java.util.Scanner;
 
